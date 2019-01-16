@@ -1,0 +1,4 @@
+Les services lancés au demarrage s'appellent "startup scripts" ou "init scripts"
+le premier qui est lance est toujours appelé "init"
+Il fonctionnent comme des "daemon", c'est un script qui est fait pour rester a tourner en arriere plan 
+On peut les voir grace a 'ls /etc/init.d/'

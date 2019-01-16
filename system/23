@@ -1,0 +1,3 @@
+Il faut d'abord entrer la commande 'logout' pour se deconnecter de l'utilisateur actuel.
+Graphique : Vous serez ammene a entrer le login puis le mot de passe de votre utilisateur
+SSH: il faura retaper la commande 'ssh newuse@address' pour initialiser la connection a la machine, ensuite le mot de passe sera demande
